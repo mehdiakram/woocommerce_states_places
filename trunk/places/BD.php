@@ -1,12 +1,12 @@
 <?php
 
 /**
- * Localities of United Arab Emirates
+ * Localities of Bangladesh
  * 
- * @author   Waqas Ahmad <https://www.apnawaqas.com>
+ * @author   S.M. Mehdi Akram <https://www.royaltechbd.com>
  * @version  1.0.0
  * @license http://opensource.org/licenses/gpl-license.php GNU Public License
- * @credit   Waqas @ Arabianwave.com <https://www.arabianwave.com>
+ * @credit   mehdi@royaltechbd.com <https://www.royaltechbd.com>
  */
 
 global $places;
